@@ -28,8 +28,10 @@ Cette application web permet de téléverser une image et d'obtenir une prédict
 ---
 
 ## 📸 Capture d’écran (exemple)
+<img width="1919" height="874" alt="Capture d'écran 2025-07-31 092913" src="https://github.com/user-attachments/assets/a7f5ce6b-01d5-452f-938e-b2b687d337c0" />
 
 ![Capture d’écran de l’application](samples/screenshot.png) <!-- tu peux ajouter une capture plus tard -->
+
 
 ---
 
